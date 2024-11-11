@@ -1,0 +1,19 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A simple weather application to fetch and display weather data.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'No build process specified.'",
+    "test": "echo 'No tests specified.'"
+  },
+  "author": "Doris Duaka",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}

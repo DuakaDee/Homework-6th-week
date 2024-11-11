@@ -1,0 +1,20 @@
+{
+  "current": {
+    "temperature": 22,
+    "condition": {
+      "description": "Clear",
+      "icon": "https://shecodes-assets.s3.amazonaws.com/api/weather/icons/clear.png"
+    },
+    "wind": {
+      "speed": 5,
+      "direction": "N"
+    },
+    "humidity": 60,
+    "date": 1698306729,
+    "timezone": "Europe/Paris"
+  },
+  "location": {
+    "name": "Paris",
+    "country": "FR"
+  }
+}
